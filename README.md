@@ -28,3 +28,11 @@ Baris 44-50: Percabangan buat mengatur pilihan menu. Pilihan 1 memanggil fungsi 
 
 # Output Program
 <img width="720" height="932" alt="17856" src="https://github.com/user-attachments/assets/7d0f3eb1-399b-4cd7-b0d9-1e9d956449b8" />
+
+Di sini saya melakukan tiga kali pengujian untuk memastikan seluruh fungsi program berjalan dengan baik
+
+Pertama, saya memilih menu 1 untuk menghitung biaya parkir mobil dengan jam masuk 8 dan jam keluar 13. Program berhasil menghitung lama parkir selama 5 jam dan menghasilkan total biaya Rp25.000
+
+Kedua, saya memilih menu 1 kembali untuk menguji kendaraan motoryaitu jam masuk 10 dan jam keluar 14. program berhasil menghitung lama parkir selama 4 jam dengan total biaya Rp12.000
+
+Ketiga, saya memilih menu 2 untuk menghentikan program. perulangan while True berhasil dihentikan dan program selesai dijalankan
